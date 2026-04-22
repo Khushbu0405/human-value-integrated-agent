@@ -3,8 +3,8 @@
 A value-aware AI system that predicts human values from text, selects policy decisions based on configurable agent profiles, and generates natural-language justifications.
 
 ## Team
-- Anya Arun Gupta — CS24MTECH11020
-- Khushbu Chaudhary — CS24MTECH14012
+- Anya Arun Gupta - CS24MTECH11020
+- Khushbu Chaudhary - CS24MTECH14012
 
 ---
 
