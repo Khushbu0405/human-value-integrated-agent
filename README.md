@@ -72,21 +72,6 @@ Used files:
 
 ---
 
-# Example Agent Decisions
-
-## Privacy vs State Control
-- Benevolence Agent → Option B
-- Power Agent → Option A
-- Security Agent → Option B
-- Openness Agent → Option C
-
-## Automation Transition
-- Benevolence Agent → Option B
-- Power Agent → Option A
-- Security Agent → Option C
-
----
-
 # Repository Structure
 
 ```text
